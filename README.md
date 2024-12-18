@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on [dummyforprojectname](dummylink)<br><br>- 🌱 I’m currently learning **Networking, Advanced GUI, Linux**<br><br>- 👯 I’m looking to collaborate on [dummydataforprojectname](dummylink)<br><br>- 🤝 I’m looking for help with [dummydataforprojectname](dummylink)<br><br>- 👨‍💻 All of my projects are available at [dummylinkforportfolio](dummylinkforportfolio)<br><br>- 📝 I regularly write creative fictional pieces [dummylinkforcreativepieces](dummylinkforcreativepieces)<br><br>- 📫 How to reach me **charlesjesimiel@gmail.com**<br><br>- 📄 Know about my experiences [dummylinkforCVdownload](dummylinkforCVdownload)<br><br>- ⚡ Fun fact **jack**</p>
+<p align="left">- 🔭 I’m currently working on solidifying my foundation in programming and breaking into cybersecurity<br><br>- 🌱 I’m currently learning Advanced GUI, Networking and Linux<br><br>- 📫 How to reach me charlesjesimiel@gmail.com<br><br></p>
 
 ###
 
