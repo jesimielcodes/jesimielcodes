@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on breaking into cybersecurity<br><br>- 🌱 Following a roadmap -{Networking, Linux}<br><br>- 👨‍💻 All of my projects are available on my github portfolio<br><br>- 📝 I regularly write creative fictional pieces<br><br>- 📫 How to reach me: **charlesjesimiel@gmail.com**</p>
+<p align="left">-  🌱a computer engineering student following a roadmap into the world of cybersecurity.<br><br>-🔭All of my projects are here for you to explore.<br><br>- 📝 When I'm not coding, I enjoy writing creative fictional pieces.<br><br>- 🌟My interests extend beyond tech. View my repositories for a glimpse of my creativity.<br><br>- 📫 Reach me at [ charlesjesimiel@gmail.com ] or on my other socials.</p>
 
 ###
 
