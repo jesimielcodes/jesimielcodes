@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">-  🌱a computer engineering student following a roadmap into the world of cybersecurity.<br><br>-🔭All of my projects are here for you to explore.<br><br>- 📝 When I'm not coding, I enjoy writing creative fictional pieces.<br><br>- 🌟My interests extend beyond tech. View my repositories for a glimpse of my creativity.<br><br>- 📫 Reach me at [ charlesjesimiel@gmail.com ] or on my other socials.</p>
+<p align="left">- 🌱 A computer engineering student following a roadmap into the world of cybersecurity.<br><br>- 📝 When I'm not coding, I enjoy writing creative fictional pieces.<br><br>- 🔭 Explore my repositories as I blend my creativity with my technical knowledge.<br><br>- 🌟 My interests extend beyond tech to cars, dance, wildlife, etc. Creativity fuels innovation and I'm always eager to learn.<br><br>- 📫 Reach me at [ charlesjesimiel@gmail.com ] or on my other socials.</p>
 
 ###
 
